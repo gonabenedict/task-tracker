@@ -3,7 +3,7 @@
  function App() {
   return (
     <div className="App">
-      <Header title = {1}/>
+      <Header title="Task Tracker" />
     </div>
   );
 }
